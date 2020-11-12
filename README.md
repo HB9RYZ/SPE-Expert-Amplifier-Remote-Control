@@ -4,6 +4,9 @@ Connect your power amplifier via the USB port to the Raspberry Pi and start the 
 
 ![Image of Remote PA and our solution](src/images/remotePA_WebApp.png)
 
+## FHNW Remote PA AddOn
+* there is an [AddOn](https://github.com/HB9RYZ/SPE-Expert-Amplifier-Remote-Control-Addon) to use the full functionality of this application.
+
 ## Contributors
 * see [CONTRIBUTORS](src/CONTRIBUTORS.md)
 
